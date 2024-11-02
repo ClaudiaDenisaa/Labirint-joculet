@@ -17,7 +17,7 @@ Jocul are un meniu in care poti alege ce nivel de dificultate vrei sa joci in fu
 
 
 
-LEGENDA LABIRINT
+LEGENDA LABIRINT:
 
 ! : pozitia actuala a pionului (pozitia finala e fixata si reprezentata tot de: ! )
 * : reprezinta peretii labirintului
