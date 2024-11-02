@@ -1,2 +1,2 @@
-# Labrry-Jocule---Labirint-
+# Labirint-joculet
 Proiect de programare (C++)
