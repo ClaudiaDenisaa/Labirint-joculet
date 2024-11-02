@@ -3,6 +3,8 @@ Proiect de programare (C++)
 
 
 
+
+
 INSTRUCTIUNI:
 
 Am folosit ca si IDE XCODE, iar pentru a incepe jocul apesi pe RUN.
@@ -14,6 +16,9 @@ Jocul are un meniu in care poti alege ce nivel de dificultate vrei sa joci in fu
 8x8
 
 10x10
+
+
+
 
 
 
